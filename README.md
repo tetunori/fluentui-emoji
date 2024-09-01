@@ -3,7 +3,7 @@
 Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft.
 
 ![Fluent Emoji](art/readme_banner.webp)
-
+test
 ## Contact
 
 Please feel free to [open a GitHub issue](https://github.com/microsoft/fluentui-emoji/issues/new) and assign to the following points of contact with questions or requests.
